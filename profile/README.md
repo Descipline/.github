@@ -8,7 +8,6 @@
     <p align="center">An open Challenge Arena where discpline is rewarded</p>
 </p>
 
-
 >  Put money on the line, prove your success, and earn rewards — all trustless, transparent, and on-chain.
 
 ---
